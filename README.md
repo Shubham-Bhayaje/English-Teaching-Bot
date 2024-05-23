@@ -9,9 +9,9 @@
 ## Usage
 
 1. **Clone the Repository**:
-   ```bash
-   https://github.com/Shubham-Bhayaje/English-Teaching-Bot.git
-   ```
+ ```bash
+ https://github.com/Shubham-Bhayaje/English-Teaching-Bot.git
+ ```
 
 2. **GO to Hugging Chat**
 
