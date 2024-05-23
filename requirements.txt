@@ -1,5 +1,6 @@
-Python>=3.6
+
 SpeechRecognition>=3.8.1
 hugchat>=1.0.0
 pyttsx3>=2.90
 pyautogui>=0.9.52
+pip install flet

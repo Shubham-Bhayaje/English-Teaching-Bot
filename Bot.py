@@ -9,8 +9,8 @@ import speech_recognition
 import pyautogui as autogui
 
 def main(page: ft.Page):
-    page.window_width = 400        
-    page.window_height = 400
+    page.window_width = 300        
+    page.window_height = 300
     page.vertical_alignment = ft.MainAxisAlignment.CENTER
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
     page.window_resizable = False  
@@ -53,9 +53,7 @@ def main(page: ft.Page):
             response = chatbot.chat(user_input) 
             print(response)
             speak(response)
-            # speak(response)
-
-            # Check if the user wants to quit the conversation
+           
             if user_input == "quit":
                 sys.exit() 
 
