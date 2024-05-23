@@ -8,28 +8,28 @@
 
 ## Usage
 
-1. **GO to Hugging Chat**
+1. **Clone the Repository**:
+   ```bash
+   https://github.com/Shubham-Bhayaje/English-Teaching-Bot.git
+   ```
+
+2. **GO to Hugging Chat**
 
 ```bash
    https://huggingface.co/chat/conversation/664efdc8561aade862ddb643
 ```
 
-2. **Make Account on Hugging chat** 
-3. **Open Chrome -> Add Following Add On In Browser**
+3. **Make Account on Hugging chat** 
+4. **Open Chrome -> Add Following Add On In Browser**
 
  ```bash
    https://chromewebstore.google.com/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
 ```
 
-4. **Open Cookie-Editor Extension on Hugging Chat website -> Click Export -> Click JSON**
+5. **Open Cookie-Editor Extension on Hugging Chat website -> Click Export -> Click JSON**
 
-5. **Now JSON FIle IS COPYD in your clickbork -> open project(English-Teaching-Bot) and past it in cokkies.JSON**
+6. **Now JSON FIle IS COPYD in your clickbork -> open project(English-Teaching-Bot) and past it in cokkies.JSON**
    
-6. **Clone the Repository**:
-   ```bash
-   https://github.com/Shubham-Bhayaje/English-Teaching-Bot.git
-   ```
-
 7. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
