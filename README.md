@@ -44,7 +44,8 @@
    python bot.py
    ```
 
-10. ** Start With**
+10. **Start With**:
+    
     First Promte:- "I want to learn english Speking So Ask me Quetion One at a time And After I answer Ask me next Quetion"
    
 
