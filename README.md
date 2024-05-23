@@ -24,7 +24,7 @@
 4. **Open Cookie-Editor Extension on Hugging Chat website -> Click Export -> Click JSON**
 
 5. **Now JSON FIle IS COPYD in your clickbork -> open project(English-Teaching-Bot) and past it in cokkies.JSON**
-   ```
+   
 6. **Clone the Repository**:
    ```bash
    https://github.com/Shubham-Bhayaje/English-Teaching-Bot.git
