@@ -29,20 +29,24 @@
 5. **Open Cookie-Editor Extension on Hugging Chat website -> Click Export -> Click JSON**
 
 6. **Now JSON FIle IS COPYD in your clickbork -> open project(English-Teaching-Bot) and remove all old data in cokkies.JSON, And paste new Data in cokkies.JSON**
-   
-7. **Install Dependencies**:
+
+7. **Install Flet**:
+   ```bash
+   pip install flet
+   ```
+8. **Install Dependencies**:
    ```bash
    pip install -r requirements.txt
    ```
 
-8. **Run the Application**:
+9. **Run the Application**:
    ```bash
    python bot.py
    ```
    
 
 ## Requirements
-- Python 3.x
+- Flet
 - SpeechRecognition
 - hugchat
 - pyttsx3
